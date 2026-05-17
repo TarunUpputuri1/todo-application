@@ -138,7 +138,7 @@ This project was built progressively, solving real problems at each stage.
 ##  Author
 
 **Upputuri Tarun Kumar**
-- Email: tarunupputuri@gmail.com
+- Email: tarunupputuri7@gmail.com
 - LinkedIn: www.linkedin.com/in/tarunkumarupputuri
 - GitHub: [github.com/TarunUpputuri1](https://github.com/TarunUpputuri1)
 
