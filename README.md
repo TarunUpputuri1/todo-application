@@ -3,6 +3,8 @@
 A Todo App built with plain HTML, CSS and JavaScript. I used core **DOM methods** to build and manage the UI dynamically. User interactions are handled through **event listeners**. Data is persisted using **localStorage with JSON methods** so tasks survive even after page reload.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7070c115-eb82-4567-8529-63ea28212f42" />
+
 
 ## 📸 Preview
 
